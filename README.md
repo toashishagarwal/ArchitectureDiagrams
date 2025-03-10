@@ -9,4 +9,5 @@
 
 ![Alt text](RAG_in_AWS.jpeg)
 
+Data Ingestion Pipeline using Snowflake & AI
 ![Alt text](DataIngestionPipeline_SnowflakeAndAI.jpeg)
