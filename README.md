@@ -6,3 +6,8 @@
 ![Alt text](AWS_ETLPipeline_variation2.jpeg)
 
 ![Alt text](AnalyticsPipeline.jpeg)
+
+![Alt text](RAG_in_AWS.jpeg)
+
+Data Ingestion Pipeline using Snowflake & AI
+![Alt text](DataIngestionPipeline_SnowflakeAndAI.jpeg)
