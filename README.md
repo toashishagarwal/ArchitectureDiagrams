@@ -11,3 +11,5 @@
 
 Data Ingestion Pipeline using Snowflake & AI
 ![Alt text](DataIngestionPipeline_SnowflakeAndAI.jpeg)
+
+![Alt text](DataQualityPipeline.jpeg)
