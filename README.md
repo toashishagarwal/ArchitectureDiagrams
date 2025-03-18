@@ -1,5 +1,5 @@
 # ArchitectureDiagrams
- Diagrams of architectures
+
 
 ![Alt text](AWS_ETLPipeline_variation1.jpeg)
 
@@ -13,3 +13,7 @@ Data Ingestion Pipeline using Snowflake & AI
 ![Alt text](DataIngestionPipeline_SnowflakeAndAI.jpeg)
 
 ![Alt text](DataQualityPipeline.jpeg)
+
+![Alt text](IngestStreamingData.jpeg)
+
+![Alt text](MovieRecommendationSystem.jpeg)
