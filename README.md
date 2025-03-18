@@ -17,3 +17,6 @@ Data Ingestion Pipeline using Snowflake & AI
 ![Alt text](IngestStreamingData.jpeg)
 
 ![Alt text](MovieRecommendationSystem.jpeg)
+
+Finetuning LLM in Snowflake
+![Alt text](FinetuningLLM_Snowflake.png)
