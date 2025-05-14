@@ -20,3 +20,5 @@ Data Ingestion Pipeline using Snowflake & AI
 
 Finetuning LLM in Snowflake
 ![Alt text](FinetuningLLM_Snowflake.png)
+
+![Alt text](AnalyticsPipelineAWS_Fivetran_Snowflake.png)
