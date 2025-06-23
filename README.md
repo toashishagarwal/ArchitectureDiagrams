@@ -22,3 +22,7 @@ Finetuning LLM in Snowflake
 ![Alt text](FinetuningLLM_Snowflake.png)
 
 ![Alt text](AnalyticsPipelineAWS_Fivetran_Snowflake.png)
+
+CDC Data Pipeline using Debezium & Trino
+![Alt text](CDC_Pipeline_Debezium_Trino.gif)
+
